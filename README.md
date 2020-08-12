@@ -44,3 +44,10 @@ Lista de Tarefas:
 - [] Tarefa4
 ---
 [Acesse meu instagram](https://instagram.com/zthiagovalle)
+---
+Num | Nome | Nota
+---|---|---
+1|Thiago|10.00
+2|Giovani|10.00
+3|Sabrina|20.00
+---
