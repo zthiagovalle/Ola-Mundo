@@ -28,4 +28,21 @@ Lista numerada:
 1. Mensagem
 1. Mensagem
 1. Mensagem
+   1. Mensagem
+   1. Mensagem
 1. Mensagem
+---
+Lista demarcada:
+* Mensagem
+* Mensagem
+* Mensagem
+   * Mensagem
+   * Mensagem
+* Mensagem
+---
+Lista de Tarefas:
+- [] Tarefa1
+- [] Tarefa2
+- [] Tarefa3
+- [] Tarefa4
+
