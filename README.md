@@ -53,3 +53,5 @@ Num | Nome | Nota
 ---
 ```Console.WriteLine("Hello Wolrd");```
 ---
+Olá, pequeno gafanhoto :vulcan_salute
+---
