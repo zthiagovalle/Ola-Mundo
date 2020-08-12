@@ -5,29 +5,21 @@
 
 Estou aprendendo linguagem Markdown no Curso em Vídeo de Git e GitHub
 ---
-Negrito:
-**Mensagem** ou __Mensagem__
+**Mensagem Negrito** 
+__Mensagem Negrito__
 ---
-Itálico:
-*Mensagem* ou _Mensagem_
+*Mensagem Itálica*
+ _Mensagem Itálica_
 ---
-Riscadas:
-~~Mensagem~~
+~~Mensagem Riscada~~
 ---
-Título nível 1:
-#Mensagem
+#Título nível 1
 ---
-Título nível 2:
-##Mensagem
+##Título nível 2
 ---
-Título nível 3:
-###Mensagem
----
-Fazer uma linha:
-*** ou ---
----
-Misturar Negrito + Itálico:
- _*Mensagem*_
+###MTítulo nível 3
+---:
+ _*Mensagem Negrita com Itálica*_
 ---
 Lista numerada:
 1. Mensagem
